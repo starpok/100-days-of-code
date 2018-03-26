@@ -1,9 +1,11 @@
 # 100 Days Of Code - Log
+### Day 2: March 26, 2018
 
+**Today's Progress**: worked on javascript conditions operators
 
 ### Day 1: March 25, 2018
 
-**Today's Progress**: worked on javascript conditions
+**Today's Progress**: worked on javascript conditions 
 
 
 ### Day 0: March 24, 2018
