@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+
+
+### Day 3: March 27, 2018
+
+**Today's Progress**: tried out some javascript games
+**Link to work:**
+1.https://www.w3schools.com/graphics/tryit.asp?filename=trygame_movement_keyboard
+
 ### Day 2: March 26, 2018
 
 **Today's Progress**: worked on javascript conditions operators
