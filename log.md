@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
+### Day 4: June 22, 2018
 
+**Today's Progress**: Started with Python
+**Link to work:**
 
 ### Day 3: March 27, 2018
 
